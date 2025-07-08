@@ -2,7 +2,7 @@
 Mastering Data Preprocessing – Titanic Dataset This notebook demonstrates essential data preprocessing steps on the Titanic dataset using Python, Pandas, and scikit-learn. It includes handling missing values, encoding categorical variables, feature scaling, and train-test splitting — preparing the data for machine learning models.
 
 
-🚢 **Mastering Data Preprocessing – Titanic Dataset**
+🚢 **Mastering Data Preprocessing – Titanic - Machine Learning from Disaster Dataset**
 
 This project demonstrates the essential steps of data preprocessing using the Titanic dataset. It is designed for beginners and intermediate learners who want to understand how to clean and prepare real-world data for machine learning models.
 
